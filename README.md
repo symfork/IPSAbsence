@@ -1,4 +1,4 @@
-# IPSAbsene
+# IPSAbsence
 
 This module will simulate presence by setting the status of a group of objects. 
 The module will create the groups automatically and for each group a delay (in seconds) can be specified.
