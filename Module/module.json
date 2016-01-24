@@ -1,0 +1,11 @@
+{
+	"id": "{B9E938E7-7CF6-4A02-B99E-30C3565D5E19}",
+	"name": "Absence",
+	"type": 3,
+	"vendor": "",
+	"aliases": ["Absence"],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "ABSENCE"
+}

@@ -1,0 +1,11 @@
+{
+	"elements":
+	[
+		{ "name": "Active", "type": "CheckBox", "caption": "Aktiv" },
+		{ "name": "Groups", "type": "NumberSpinner", "caption": "Schaltgruppen" },
+		{ "name": "Speed", "type": "NumberSpinner", "caption": "Geschwindigkeit" },
+		{ "name": "Random", "type": "NumberSpinner", "caption": "Zufallsabweichung (Sekunden)" },
+		
+		
+	]
+}
